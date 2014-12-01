@@ -4,7 +4,7 @@ Minimal BioJS Template
 ## Installation
 No requirements needed. Just install by downloading the zip or typing into the terminal
 ```
-git-clone daviddao/minimal-biojs.git
+git-clone https://github.com/daviddao/minimal-biojs.git
 ```
 
 This is a minimal biojs template.
